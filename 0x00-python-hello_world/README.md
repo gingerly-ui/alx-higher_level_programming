@@ -7,3 +7,4 @@ Complete this source code to print Welcome to Holberton School!
 Complete this source code
 Complete this source code to print object-oriented programming with Python, followed by a new line.
 Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+Technical interview preparation:
