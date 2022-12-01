@@ -11,3 +11,11 @@ Write a function that prints the last digit of a number.
 Write a function that adds two integers and returns the result.
 Write a function that adds two integers and returns the result.
 Write a function that prints the numbers from 1 to 100 separated by a space.
+Technical interview preparation:
+
+You are not allowed to google anything
+Whiteboard first
+Write a function in C that inserts a number into a sorted singly linked list.
+
+Prototype: listint_t *insert_node(listint_t **head, int number);
+Return: the address of the new node, or NULL if it failed
