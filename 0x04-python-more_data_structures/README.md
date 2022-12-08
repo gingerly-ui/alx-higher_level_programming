@@ -10,4 +10,5 @@ Write a function that returns a new dictionary with all values multiplied by 2.
 Write a function that returns a key with the biggest integer value.
 Write a function that returns a list with all values multiplied by a number without using any loops.
 Write a function that returns the weighted average of all integers tuple (<score>, <weight>)
+Write a function that computes the square value of all integers of a matrix using map.
 
